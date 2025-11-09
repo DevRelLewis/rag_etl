@@ -1,0 +1,26 @@
+CONFIDENTIAL HR EMPLOYEE RECORD
+
+Name: Lewis Meyers
+Email: meyerslewis193@email.com
+Phone: 571-294-9222
+Address: Not given
+
+EMPLOYMENT HISTORY:
+Senior Full Stack Developer (2020-Present)
+- Built microservices with Python FastAPI and React
+- Led team of 4 developers on e-commerce platform
+- Reduced API response times by 60%
+
+Software Engineer (2018-2020) 
+- Developed REST APIs with Node.js and TypeScript
+- Created React dashboards for data analytics
+- Implemented CI/CD pipelines
+
+TECHNICAL SKILLS:
+Languages: Python, JavaScript, TypeScript, Java
+Frameworks: FastAPI, React, Node.js, Django
+Databases: PostgreSQL, MongoDB, Redis
+Cloud: AWS, Docker, Kubernetes
+
+SALARY: $125,000 CAD
+PERFORMANCE RATING: Exceeds Expectations

@@ -1,0 +1,43 @@
+ATS CANDIDATE RECORD - RESTRICTED ACCESS
+
+Candidate ID: ATS-2024-DEV-001
+Position: Software Engineer
+Application Date: 2024-11-09
+Status: Interview Phase
+
+CANDIDATE PROFILE:
+Name: Lewis Meyers
+Email: meyerslewis193@email.com
+Phone: 571-294-9222
+Location: Toronto, Ontario and United States
+
+TECHNICAL ASSESSMENT:
+Python: 95/100
+System Design: 92/100  
+React/Frontend: 88/100
+Database Design: 90/100
+Overall Score: 91/100
+
+PROJECT EXPERIENCE:
+1. RAG System Implementation
+   - Built end-to-end RAG pipeline with FastAPI
+   - Integrated GitHub API for real-time data
+   - Used LangChain and FAISS for vector search
+   
+2. E-commerce Platform
+   - Microservices architecture with Docker
+   - React frontend with TypeScript
+   - PostgreSQL with Redis caching
+
+SKILLS ASSESSMENT:
+Expert: Python, FastAPI, React, PostgreSQL
+Advanced: TypeScript, Docker, AWS, MongoDB  
+Intermediate: Kubernetes, Machine Learning
+
+INTERVIEW NOTES:
+- Strong technical communication
+- Excellent problem-solving approach
+- Good cultural fit for team environment
+
+SALARY EXPECTATION: $130,000 - $145,000 CAD
+AVAILABILITY: 2 weeks notice
