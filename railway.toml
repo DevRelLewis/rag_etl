@@ -2,7 +2,7 @@
 builder = "NIXPACKS"
 
 [deploy]
-startCommand = "cd rag_etl/src && python server.py"
+startCommand = "python main.py"
 
 [[services]]
 name = "rag-etl"

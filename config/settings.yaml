@@ -39,9 +39,9 @@ github:
   base_url: "https://api.github.com"
   rate_limit_per_hour: 5000
   endpoints:
-    user: "/users/{devrellewis}"
-    repos: "/users/{devrellewis}/repos"
-    repo_languages: "/repos/{devrellewis}/{repo}/languages"
+    user: "/users/{username}"
+    repos: "/users/{username}/repos"
+    repo_languages: "/repos/{username}/{repo}/languages"
   fetch_options:
     include_repos: true
     include_languages: true
