@@ -68,6 +68,14 @@ def create_app():
         except Exception as e:
             raise HTTPException(status_code=500, detail=f"Query processing error: {str(e)}")
 
+    # Add the RAG endpoint that your frontend expects
+    @app.post("/api/rag/query", response_model=QueryResponse)
+    def rag_query_documents(request: QueryRequest):
+        try:
+            return query_service.process_query(request)
+        except Exception as e:
+            raise HTTPException(status_code=500, detail=f"Query processing error: {str(e)}")
+
     @app.post("/api/upload", response_model=UploadResponse)
     async def upload_document(
             file: UploadFile = File(...),
